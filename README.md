@@ -1,46 +1,44 @@
-# Análisis de Salarios en Ciencia de Datos
+# Data Science Salary Analysis
 
-## Descripción del Proyecto
+## Project Description
 
-Este proyecto tiene como objetivo realizar un análisis exhaustivo de los salarios en el campo de la ciencia de datos. Se utilizaron datos recopilados de una encuesta realizada a profesionales de ciencia de datos en diferentes empresas y ubicaciones.
+This project aims to conduct a comprehensive analysis of salaries in the field of data science. Data was collected from a survey conducted among data science professionals in various companies and locations.
 
-## Conjunto de Datos
+## Dataset
 
-El conjunto de datos utilizado en este análisis se encuentra en el archivo "data.csv". Contiene información sobre el salario, nivel de experiencia, tipo de empleo, tamaño de la empresa, ubicación de la empresa, título del puesto de trabajo y la proporción de trabajo remoto.
+The dataset used in this analysis is located in the "data.csv" file. It contains information about salary, experience level, employment type, company size, company location, job title, and the proportion of remote work.
 
-## Limpieza de Datos
+## Data Cleaning
 
-Antes de realizar el análisis, se llevó a cabo una limpieza de los datos para eliminar valores faltantes y outliers que pudieran afectar los resultados del estudio.
+Prior to the analysis, data cleaning was performed to remove missing values and outliers that could impact the study's results.
 
-## Análisis de Variables
+## Variable Analysis
 
-En este proyecto se realizaron análisis detallados de diferentes variables, incluyendo:
+This project involved detailed analysis of various variables, including:
 
-- Salary (Salario)
-- Experience Level (Nivel de Experiencia)
-- Employment Type (Tipo de Empleo)
-- Company Size (Tamaño de Empresa)
-- Company Location (Ubicación de la Empresa)
-- Job Title (Título del Puesto de Trabajo)
-- Remote Ratio (Tasa de Trabajo Remoto)
-- Employee Residence (Ubicación de Residencia de los Empleados)
+- Salary
+- Experience Level
+- Employment Type
+- Company Size
+- Company Location
+- Job Title
+- Remote Ratio
+- Employee Residence
 
-Cada análisis incluye una descripción de la variable, su distribución, evolución a lo largo de los años y cualquier otra información relevante.
+Each analysis includes a description of the variable, its distribution, year-over-year trends, and any other relevant information.
 
-## Correlaciones
+## Correlations
 
-Se realizó un análisis de correlaciones para explorar las relaciones entre diferentes variables y cómo estas pueden afectar los salarios en el campo de la ciencia de datos.
+A correlation analysis was conducted to explore the relationships between different variables and how they may impact salaries in the field of data science.
 
-## Conclusiones
+## Conclusions
 
-Los resultados del análisis respaldan la hipótesis inicial de que los salarios en la ciencia de datos han experimentado una tendencia ascendente en los últimos 3 años. Se observó un aumento significativo en los salarios entre ciertos años, lo que sugiere una mejora en las condiciones salariales para los profesionales de ciencia de datos.
+The analysis results support the initial hypothesis that data science salaries have experienced an upward trend in the last 3 years. A significant increase in salaries was observed between certain years, suggesting an improvement in salary conditions for data science professionals.
 
-## Limitaciones
+## Limitations
 
-Es importante tener en cuenta que este análisis tiene ciertas limitaciones, como la cantidad de datos disponibles y posibles sesgos en la muestra. Estas limitaciones podrían haber afectado los resultados obtenidos y deben ser consideradas al interpretar los hallazgos.
+It's important to note that this analysis has certain limitations, such as the amount of available data and potential sample biases. These limitations could have affected the results obtained and should be considered when interpreting the findings.
 
-## Cómo Contribuir
+## How to Contribute
 
-Si deseas contribuir a este proyecto, puedes hacerlo a través de pull requests. También puedes abrir un issue si encuentras algún problema o tienes sugerencias para mejorar el análisis.
-
-
+If you wish to contribute to this project, you can do so through pull requests. You can also open an issue if you encounter any problems or have suggestions to enhance the analysis.
